@@ -52,7 +52,7 @@ function copy(array){
     /*your code here*/
 }  
 let copyOriginal = copy(originalFlavors)  
-console.log("Task1;", copyOriginal) 
+console.log("Task1:", copyOriginal) 
 
 
 
